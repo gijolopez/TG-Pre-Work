@@ -7,3 +7,5 @@ Instead of using the font's link in the HTML document, enter the link into the U
 The browser will load the CSS rules. You will need to focus on the rules that are directly labeled as /* latin */. Some of the latin rules are on separate lines. You will need each of these.
 Copy each of the CSS rules labeled latin, and paste the rules from the browser to the top of style.css.
 It is important to stress the need to copy the @font-face rules to the top of the stylesheet for the font to load correctly in the project.
+
+https://fonts.googleapis.com/css?family=Space+Mono:400,700/
