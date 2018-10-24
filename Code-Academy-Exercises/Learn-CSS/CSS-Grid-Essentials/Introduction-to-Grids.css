@@ -1,0 +1,18 @@
+Introduction to Grids
+Using CSS, you can elegantly lay out elements on a web page. There is no simple answer for how best to do this — depending on what content you are trying to display, multiple different techniques can work well. Codecademy's lessons on the box model, Flexbox, and CSS display and positioning properties explain three possible ways to approach layout.
+
+In this lesson, we introduce a new, powerful tool called CSS Grid. The grid can be used to lay out entire web pages. Whereas Flexbox is mostly useful for positioning items in a one-dimensional layout, CSS grid is most useful for two-dimensional layouts, providing many tools for aligning and moving elements across both rows and columns.
+
+By the end of this lesson, you will understand how to use these properties to create grid layouts:
+
+grid-template-columns
+grid-template-rows
+grid-template
+grid-template-area
+grid-gap
+grid-row-start / grid-row-end
+grid-column-start / grid-column-end
+grid-area
+That's a lot to learn. But by the end, you'll be a master at grid positioning. Let's start learning!
+
+Note: CSS Grid is supported in the most recent versions of many browsers, but it is not supported universally. To make sure that you can get the most out of this course, check your browser version and see if it supports CSS Grid. If CSS Grid is not supported in your browser, you should switch or update to a supported browser and version.
