@@ -16,3 +16,15 @@ grid-area
 That's a lot to learn. But by the end, you'll be a master at grid positioning. Let's start learning!
 
 Note: CSS Grid is supported in the most recent versions of many browsers, but it is not supported universally. To make sure that you can get the most out of this course, check your browser version and see if it supports CSS Grid. If CSS Grid is not supported in your browser, you should switch or update to a supported browser and version.
+
+Review
+At this point, we've covered a great deal of different ways to manipulate the grid and the items inside it to create interesting layouts.
+
+grid-template-columns defines the number and sizes of the columns of the grid
+grid-template-rows defines the number and sizes of the rows of the grid
+grid-template is a shorthand for defining both grid-template-columns and grid-template-rows in one line
+grid-gap puts blank space between rows and/or columns of the grid
+grid-row-start and grid-row-end makes elements span certain rows of the grid
+grid-column-start and grid-column-end makes elements span certain columns of the grid
+grid-area is a shorthand for grid-row-start, grid-column-start, grid-row-end, and grid-column-end, all in one line
+You have seen how to set up and fill in a grid and you now have one more CSS positioning technique to add to your toolkit! Let's do some practice to solidify these skills.
