@@ -16,7 +16,7 @@
 
 ## What code is rendered in the browser?
 
-HTML is usually the code that is rendered in the browser.
+The code that is renders in the browser is: **HTML, CSS and images** along with **JavaScript**.
 
 ## What is the server-side code’s main function?
 
@@ -29,12 +29,12 @@ The **client-side code** main function handles the structure and presentation of
 ## How many instances of the client-side assets (HTML, CSS, JS, Images, etc.) are created?
 *I am a bit confused on this question*
 
-I would say, you are able to create as many instances as you like, depending on how many ***URLs*** you go to.
+I would say, every time the webpage is visited, an instance is created. The number of instances depend on the number of clients viewing the webpage.
 
 ## How many instances of the server-side code are available at any given time?
 *I am a bit confused on this question*
 
-I would say, that the only server-side code available at any given time would be the response from the server.
+Only one instance of the server-side code available at any given time.
 
 ## What is runtime?
 
